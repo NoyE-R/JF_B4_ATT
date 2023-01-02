@@ -2,7 +2,7 @@
 
 # Presentation of the repository
 - Deep Learning project of the Jedha Bootcamp certification (Data Fullstack) including NLP analysis.
-- Avalaible video presention the analytic approach and results: Vidyard link
+- Avalaible video presention the analytic approach and results: [link](https://share.vidyard.com/watch/oVVy8EiSdeaqJPEAQyWqsE?)
 - Contact e-mail: noyer.estelle@gmail.com
 
 # Studied project in this repository
